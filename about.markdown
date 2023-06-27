@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a recent Oxford graduate working as a data engineer in the UK. I like to use data to find interesting facts, or just play around with technologies.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My first (and best) language is Cantonese, followed by English and Python. I have also dabbled with javascript, and am picking up the basics of Go.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I also really like [Magic: the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering).
