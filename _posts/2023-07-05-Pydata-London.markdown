@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pydata London Meetup"
-date:   2023-07-05 23:53:00 +0000
+date:   2023-07-05 23:53:00 +0100
 categories: Meetups
 ---
 
