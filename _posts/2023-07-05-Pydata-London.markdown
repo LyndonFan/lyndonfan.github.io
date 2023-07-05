@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pydata London Meetup"
-date:   2023-07-05 23:00:00 +0000
+date:   2023-07-05 23:53:00 +0000
 categories: Meetups
 ---
 
@@ -11,7 +11,7 @@ categories: Meetups
 
 If you want to come along to one of these events, go to the Meetup page below and find an event to RSVP:
 
-https://www.meetup.com/pydata-london-meetup/
+[https://www.meetup.com/pydata-london-meetup/](https://www.meetup.com/pydata-london-meetup/)
 
 ## The Talks
 
@@ -37,7 +37,7 @@ The title is obviously eye-catching, and the results did speak for themselves. T
 
 If you want to play with the code yourself, it's here:
 
-https://github.com/CoefficientSystems/chat-efficient/
+[https://github.com/CoefficientSystems/chat-efficient/](https://github.com/CoefficientSystems/chat-efficient/)
 
 ### Open Source is Technically Illegal – [Casper da Costa-Luis](https://github.com/casperdcl)
 
