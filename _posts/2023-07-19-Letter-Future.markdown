@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Letter to my Future Self -- 2023"
-date:   2023-07-13 00:00:00 +0100
+date:   2023-07-19 22:00:00 +0100
 categories: Personal
 ---
 
