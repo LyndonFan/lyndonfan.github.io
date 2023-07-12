@@ -23,7 +23,7 @@ In the meantime, why not spend more time picking up other languages? Maybe JS/Re
 
 Remember the D&D campaign you joined last year but just missed the ending? That is a sign for you to go join a campaign. We're beginners, yes, but so are a lot of people. There are tonnes of online and in-person ones, so browse around.
 
-There's also Magic, of course. You definitely won't forget it, considering you've bought tickets to Commandfest, have you? If not, yes, go buy them -- make it a treat from me :wink: Build some more decks too, since having one is only going to have limited variations. <!-- And you can't play proxies at official events :sad: -->
+There's also Magic, of course. You definitely won't forget it, considering you've bought tickets to Commandfest, have you? If not, yes, go buy them -- make it a treat from me 😉 Build some more decks too, since having one is only going to have limited variations. <!-- And you can't play proxies at official events 😞 -->
 
 But you don't want to have only two hobbies, do you? Find some other stuff you've thought of doing -- maybe it's a place in town, or some other stuff that's more affordable when you're technically still a student. Go do them! You only have around 1.5 months left, so do them before September. Speaking of which, ...
 
@@ -37,7 +37,7 @@ But you've graduated! You literally have no one else telling you what to do. Giv
 
 The short answer: the path of least resistance.
 
-The long answer: ehhh (whines, shrugs). Yes, despite applying for jobs, finding a place to settle, and taking care of myself, I would consider these as doing the bare minimum to survive. We're lucky that our parents will pay / paid our debt off (thanks Mum and Dad :heart:), and I get to type out my nonsense on a blog on a computer. That said, if you fast-forward to 2022 Christmas, you'll find me lying in bed, watching Youtube videos and wasting the day away. As chill as it sounds, it's not doing much. Even playing MTG or Minecraft (you have a copy from 2019/2020 Christmas, right?) probably seems more meaningful.
+The long answer: ehhh (whines, shrugs). Yes, despite applying for jobs, finding a place to settle, and taking care of myself, I would consider these as doing the bare minimum to survive. We're lucky that our parents will pay / paid our debt off (thanks Mum and Dad ❤️), and I get to type out my nonsense on a blog on a computer. That said, if you fast-forward to 2022 Christmas, you'll find me lying in bed, watching Youtube videos and wasting the day away. As chill as it sounds, it's not doing much. Even playing MTG or Minecraft (you have a copy from 2019/2020 Christmas, right?) probably seems more meaningful.
 
 But you already have some thoughts about your future, don't you? You could go drink until you pass out, gamble away your fortune on the stock market, or catfish people on Tinder. Yet, I know you won't do any of them, since (a) I'm you in the future, and (b) I also know you well (shocking). You'll get to learn more about yourself and know what you don't want, hence better understand what you do want. You'll find reasons to go visit places alone and wander a bit. Mostly because there's an event, but mainly because you want to.
 
