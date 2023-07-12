@@ -61,5 +61,7 @@ I could go on for a long time -- so long that you become me. But know you have g
 Take care of yourself, spend your time well, and I'll see you in a year.
 
 Regards,
+
 Lyndon
+
 2023/07/12
