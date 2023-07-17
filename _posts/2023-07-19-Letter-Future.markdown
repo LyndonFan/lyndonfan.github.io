@@ -9,33 +9,72 @@ Dear Lyndon,
 
 Hope your past year has went well. In case you forgot, I wrote this last year to catch up and see how things went for you / will go for me. It's also to see what you have or have not done since I wrote this letter -- sort of like a review, but between myself (or myselves?) ~~and all the readers~~.
 
-<!--
-career / more coding related
-- what languages can profressionally use? Python (ofc), but anything else? JS/React for frontend? C++/Go for speed? sth else?
-- what tools? GCP?
-- what show work? certs? projects? open source stuff? this blog?
+## Career progress
 
-personal / smol stuff related
-- MTG? D&D? other games / hobbies?
-- socialize w/ friends? family? new friends?
-- stay in touch w/ community? local one, and HKers? volunteer?
+I'm assuming you are still in a coding-related career. If not, let me know!
 
-big stuff
-- what person you want to be? any direction?
-- set goals? plans of action? accountability? deadlines?
-- habits? maintain good ones? start new ones? rid bad ones?
+### What can you use?
 
+If someone told you to go use some language for a project, do you need to find the docs just to print "Hello World"? (If it's Haskell probably.) What languages other than Python can you use professionally? Maybe it's Javascript/Typescript plus some frontend framework, C++/Go for speed, or something else entirely.
 
-## WHEN'S THE LAST TIME YOU LOOKED AT THEM?
-- "I know you -- I'm literally you. There's a decent chance you haven't looked at whatever you wrote until I brought it up in the last couple paragraphs."
-- check regularly
-- put them in prominent place -- in room, computer, and/or phone
-- how track? Notion/Obsidean? calendar? physical notebook? sth else?
+Outside of languages, there are tools and platforms to setting up the project/software, e.g. terraform, docker, Google Cloud Platform. What experiences do you have with them?
 
-## conclusion
-- "Look, it's all a lot, but I hope you remember where I'm coming from. Our lives have changed a lot -- from coming to the UK for university, to the pandemic, to graduating and starting a job. You are a 24-year-old adult, and only you can be responsible for your own life and your happiness."
-- not all done in one day
-- "hey, it's a review. I'm not giving you a score out of 100, just comments and guidelines for you to look back on yourself."
-- have time to improve yourself.
-- "Do whatever makes me, and hence yourself, happy."
--->
+On a similar note, ...
+
+### What have you accomplished?
+
+Nowadays just writing "X years of experience with Y" isn't that convincing. You need some proof that you have indeed used it -- what is yours? Listing out your achievements at work is a great starting point, but having actual projects and code for others to view is better. Showcase repos you are particularly proud of, or certificates that you spent months working towards. Or even [this blog](/_site/index.html)!
+
+## Social life
+
+Don't let the above swamp you though: life isn't just advancing up the career/corporate ladder. You don't want someone to tell you "go get a life", because that's me until recently.
+
+### What are your hobbies?
+
+You shouldn't spend more than a minute to think of your answer.
+I'm still playing [Magic](LINKHERE) and some [D&D](OTHERLINKHERE), how about you? Have you picked up other hobbies or interests?
+
+### Connections
+
+How are our parents and family? Hope you have caught up with them recently -- they have helped us a lot, you know.
+
+-   socialize w/ friends? family? new friends?
+-   stay in touch w/ community? local one, and HKers? volunteer?
+
+## Big stuff
+
+Let's get onto the actual business, shall we?
+
+### What kind of person do you want to be?
+
+A concrete answer isn't nencessary (I'd be surprised if you found it within a year), but you are likely to have found some general direction. I already have some ideas of where I don't want to head towards (e.g. a ditch or [salted fish](EXPLAINREFERENCE)), so don't say you had nothing to work to.
+
+### What goals do you have?
+
+Yes, I've put goals after identity. I'm reading [James Clear's Atomic Habits](HISWEBSITEHERE) and incorporating the goal-setting section stuff here.
+
+Given your directions / identity, you should have some corresponding goals. Make sure they are measurable, and set forth plans and deadlines. Get yourself accountable to actually do them.
+
+Similarly, what habits have you set out to do/get rid of? Are you making them easier/harder to achieve? What about existing good ones?
+
+You almost surely made plans for the above, which is a good start. However, ...
+
+> ### When's the last time you looked at them?
+
+I know you -- I'm literally you. There's a decent chance you haven't looked at whatever you wrote until I brought them up in the last couple paragraphs.
+
+Check them regularly, put them in prominent places. I currently have some A4 paper with (questionable) motivational text hung at my desk. You could have them on your computer(s) and phone(s).
+
+Better yet, track them. There are tonnes of these apps out there, or even Notion (or Obsidian?) to help with this. A physical calendar or notebook would work just as well.
+
+## Final words
+
+Look, it's all a lot, but I hope you remember where I'm coming from. Our lives have changed a lot -- from coming to the UK for university, to the pandemic, to graduating and starting a job. You are a 24-year-old adult, and only you can be responsible for your own life and your happiness.
+
+Rome wasn't built in a day, and so aren't you. You can't change who you are overnight, so have time to improve yourself. I can't actually judge you because time only marches forward, nor can I foresee all aspects of your life. Treat the above as merely guidelines for you to look back on yourself.
+
+Do whatever makes me, and hence yourself, happy.
+
+Regards,
+Lyndon
+19/07/2023
