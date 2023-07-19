@@ -60,7 +60,9 @@ Similarly, what habits have you set out to do/get rid of? Are you making them ea
 
 You almost surely made plans for the above, which is a good start. However, ...
 
-> ### When was the last time you looked at them?
+<div align="center">
+<h2>When was the last time you looked at them?</h2>
+</div>
 
 I know you -- I'm literally you. There's a decent chance you haven't looked at whatever you wrote until I brought them up in the last couple of paragraphs.
 
@@ -77,5 +79,7 @@ Rome wasn't built in a day, and neither aren't you. You can't change who you are
 Do whatever makes me, and hence yourself, happy.
 
 Regards,
+
 Lyndon
+
 19/07/2023
