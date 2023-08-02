@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  A "Magic" Trick
-date:   2023-08-02 22:00:00 +0100
+date:   2023-08-02 23:45:00 +0100
 categories: Python
 ---
 
 _Hey kids, wanna see a function work and not work at the same time?_
+
+(This article has an accompanying notebook and data file -- see them [here](LINKTBC)! )
 
 ## Set up
 
@@ -13,7 +15,7 @@ I was working with some data that only had names and information, but no ids. My
 
 Wait, looks like it's censored. Let me try again.
 
-The data resembled some [magic cards](LINKTOMTGWIKI) that I downloaded from the internet. The ids mysteriously went missing, so my first job was to create them. Here's what the data looked like:
+The data resembled some [magic cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering) that I downloaded from the internet. The ids mysteriously went missing, so my first job was to create them. Here's what the data looked like:
 
 ```python
 import warnings
@@ -1115,9 +1117,11 @@ _"Don't use np.where!"_
 
 Well, not quite.
 
-Do consider it when you're dealing with numpy arrays, but with pandas, you have to be a bit more mindful about the indexes, especially with dataframes being filtered and transformed everywhere. If you don't remember whether a dataframe has been filtered or it's a fresh copy, better make the function not aware of its index, or just reset it if you are cautious.
+Do use it when you're dealing with numpy arrays, but with pandas, you have to be a bit more mindful about the indexes, especially with dataframes being filtered and transformed everywhere. If you don't remember whether a dataframe has been filtered or it's a fresh copy, better make the function not aware of its index, or just reset it if you are cautious.
 
-Oh, and don't use apply like I did. Find another way to do it:
+In fact, the point about filtered and copied dataframes applies beyond indexes. When manipulating data, some operations create copies, while others only create views. Here, the filtering created a view of the dataframe, while the initial implementation of `gen_key` creates a new series. As you saw, they don't exactly mesh with each other well.
+
+Oh, and don't use apply like I did. Find another way to do it, such as with `.iloc` and merges, or like this:
 
 ```python
 def gen_key_no_apply(
