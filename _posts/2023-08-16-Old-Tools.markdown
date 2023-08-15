@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tools
-date:   2023-08-02 23:45:00 +0100
+date:   2023-08-16 00:30:00 +0100
 categories: Programming
 ---
 
@@ -9,17 +9,17 @@ Tools. The newer the better, right?
 
 Wrong.
 
-Even just saying that out loud sounds silly! Try speaking that to any mechanic, and I feel like they are happy to provide a counterexample with a hammer, crowbar, or implement of their choice.
+Even just saying that sounds silly! Try telling that to any mechanic, and they'll happily provide a counterexample with a hammer, crowbar, or implement of their choice.
 
-The same is true for programming. GUIs aren't always better than CLIs or terminal apps, and visual IDEs aren't always the goto. There are countless new programming languages out there, but there are still people writing and maintaining COBOL.
+The same is true for programming. GUIs aren't always better than CLIs or terminal apps, visual IDEs aren't always the goto. There are countless new programming languages and frameworks, but people are paid to write and maintain [COBOL](https://en.wikipedia.org/wiki/COBOL#Legacy).
 
 ## An Example
 
-Here's a quick example from work to showcase my point. I was cleaning some large csvs and found that it had backslash characters, which made it hard to work with when uploading to our database. (Backslashes were for control characters in PostgresSQL, so they break the `COPY FROM` command.) The upstream pipeline was fixed to no longer generate these characters, but I still had the current dirty csvs.
+Here's a quick example from work to demonstrate. I was cleaning some large csvs and found that it had backslash characters, which made it hard to work with when uploading to our database. (Backslashes were for control characters in PostgresSQL, so they break the `COPY FROM` command.) The upstream pipeline was fixed to no longer generate these characters, but the current csvs were still dirty.
 
-Seeing their format, my mind jumped to processing the files in Python. Unforuntately, with file sizes of well over 1GB, so loading them in alone was already a challenge. I tried loading it in chunks, but the program was still taking its sweet time.
+Seeing their format, my mind jumped to processing the files in Python. Unforuntately, with file sizes of well over 1GB, so loading them in alone was already a challenge. I tried loading it in chunks, yet the program continued to take its sweet time.
 
-It took me a moment to realise that the csv were just text files, and since I only needed to get rid of backslahes, I could just use `sed`. So I ran the following in the terminal
+It took me a moment to realise that the csv were just text files, and as I only needed to get rid of backslahes, I could just use `sed`. So I ran the following in the terminal
 
 ```
 sed -i 's=\\==g' FILENAME.csv
@@ -35,14 +35,16 @@ Did I care? Not really 🤷‍♂️
 
 _I could just ask ChatGPT to write the command for me!_
 
-(inhales deeply). That feels like a whole article / opinion piece I should devote more time to.
+(inhales deeply)
 
-Continuing the analogy of a mechanic, the AI is more like an intern fresh out of mechanic school. They can use tools on your behalf and perform most tasks well, but they are still falliable and won't also know your requirements as well as you do.
+That feels like a whole article / opinion piece I should devote more time to.
+
+Continuing the analogy of a mechanic, the AI is more like an intern fresh out of mechanic school. They can use tools on your behalf and perform most tasks well, but they are still falliable and won't also know the requirements as well as you do.
 
 Also, if you don't know the tool to begin with, you won't be able to ask for it in the first place. I don't think ChatGPT can recommend you the right tool if you specified another one, though Google and stackoverflow might be more helpful.
 
-So if I were you, I would start learning how to hammer my own nails. Or at least pick up some "old-fashioned" cli commands.
+So if I were you, I would start learning how to hammer my own nails. Or at least pick up some "old-fashioned" CLI commands.
 
 ## P.S.
 
-This quick article was inspired by me (re-)watching [the Primeagen's advice to his younger self](https://m.youtube.com/watch?v=QIyc6NKS5J0&t=4s&pp=ygUOUHJpbWVhZ2VuIGdyZXA%3D). His example on using different tools conincidentally also involves `sed`, though I probably won't be able to write a Java html parser on the spot.
+This quick article was inspired by me (re-)watching [the Primeagen's advice to his younger self](https://m.youtube.com/watch?v=QIyc6NKS5J0&t=4s&pp=ygUOUHJpbWVhZ2VuIGdyZXA%3D). His example on using different tools conincidentally also involves `sed`, though I probably won't be able to write a Java text parser on the spot.
