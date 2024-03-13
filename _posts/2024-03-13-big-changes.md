@@ -32,4 +32,4 @@ What would my career be like had I returned to Hong Kong? No idea -- it's a diff
 
 I'm fairly sure I won't be here as I am (both physically and otherwise) if it weren't for these big changes.
 
-[Unless...?]({% link _posts/2024-03-20-small-changes.md %})
+Unless...?
