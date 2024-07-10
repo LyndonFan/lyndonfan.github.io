@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "Letter to my Past Self -- 2024"
+date:   2024-07-10 22:00:00 +0100
+categories: Personal
+---
+
+_This letter is a reply to [myself back in 2023]({% link _posts/2023-07-19-Letter-Future.markdown%})._
+
+Dear Lyndon,
+
+Thanks for writing. I only remembered this letter as I wrote [my last article]({% link _posts/2024-07-03-gamble-more.md%}), but I tried to not read it until I started writing a response back to you (or me? or myselves).
+
+Since this is a review (or a 1-1), I guess it makes sense for me to respond in kind. There will be spoilers, but you already know this.
+
+## Career progress
+
+### What can I use?
+
+Yes, I'm still a programmer. In fact, I've started a new job in January this year! It's still Python and Terraform, but the company uses AWS instead of GCP. It's both more expressive and frustrating at times. At least you don't have to worry about Cloudformation for another 6 months. I've been picking on some Go lately, though it's limited to basic DSA problems (i.e. solving Leetcode) and CRUD apps for now. I'm dabbling in Rust for a polars-related project, but I'm sure you know someone with more ideas.
+
+### What have I done?
+
+Wow, you've definitely put me on the spot there. I had to actually go back on Github, think for a while, and recall what I've actually done.
+
+For work, you'll solve a huge technical challenge soon, and when it comes to your reward, be brave and ask for something that lines up with other opportunities. I've done more software architecture / Terraform at my new place, and am still learning the new pace and methodologies. Outside of work, I don't have certificates nor showcase repos, except for some articles here and some [codecrafters](https://codecrafters.io/) challenges in Go. They are basically build your own version of X, e.g. git/databases. You'll find them quite fun!<!--No need to pay for them though, just wait until they're free-->
+
+## Social Life
+
+I'm pleasantly surprised you brought this up. Happy to say it's improved from where you are!
+
+### What are my hobbies?
+
+A bit less Magic, but D&D is still going. Found a social deduction game called [Blood on the Clocktower](https://bloodontheclocktower.com/), which is more complex yet more welcoming than Werewolf or Mafia. On a related note, I (finally) joined a canoe course! It's quite fun rowing in the Thames, and I've only fallen into it once (as of writing).
+
+### How do I spend my time?
+
+Mostly similar, though I've moved in with a friend now, so it's much more lively even at home. Just cooking meals for each other and generally having someone to chat with at night or on weekends is quite nice.
+
+I still go to local events, but am more willing to travel further (London) for more. You will find more stuff to do in Reading and your new place. I still go to PyData, though only if the topics are interesting.
+
+### What's my support network?
+
+Friends and parents. It's not bad, though not a lot of them are in the UK. I'll pass it on to next year and see how we do.🤷
+
+## Big Stuff
+
+Oh boy. I haven't thought about these for quite a while. After taking some time to think about it, I've come up with these answers.
+
+### What kind of person do I want to be?
+
+Thoughtful. Possibly introverted, but not too shy to spark conversation when I want to. Programmer of various languages (at least 3?), still great at Python, but also someone with a life outside of work.
+
+### What are my goals?
+
+Currently, to balance between enjoying my youth and advancing my career. Being young generally means having the energy to do multiple things at once, though it doesn't seem like it for me -- or I just need more sleep. Probably just more sleep.
+
+### When was the last time I looked at them?
+
+Erm, oops.
+
+To be honest, I dropped off Atomic Habits a bit early on. Maybe I haven't tried the method for long enough, or it's not suitable for us. I'll pull it back up and see what to do here.
+
+I dropped off of Notion around late 2023 because it was slow. Took me a while to find what suited me, and now I've landed on [SimpleNote](https://simplenote.com/). I also just settle on good ol' text and markdown.
+
+I still use a physical calendar for events and jotting down things to do, though Google Calendar is my go-to as I always have my phone in hand.
+
+## (Your) Final Words
+
+Yup, change is a long process. Glad you pointed it out and aren't pushing too hard. My choices weren't all optimal, but overall I'm quite happy.
+
+Now that you've hopefully gotten some answers, allow me to indulge myself for a minute.
+
+## My Turn
+
+There have been more twists and turns over the past year. Most of them are interesting, several are good, but some are not great. I've managed to get something out of all of them though. Changing myself isn't easy when the world and everyone move in weird and unexpected directions.
+
+In my job now, we do plan things well ahead of time, but we also account for "business as usual" work. We don't need to adopt all of this, but a possible reason for why I haven't done as much as I liked -- or even know how much I wanted in the first place -- is I haven't written and checked in on these goals. So you've called me on it, and a year in advance too. You _do_ know me, even better than I do. A physical board might not work for now, but maybe something digital? Duolingo is pretty good with it, so there could be other less snobby apps that work.
+
+Speaking of my job, I just screwed up big recently for not following the procedures. It was another team who told me that, and I quickly pled guilty to my manager. They rightfully warned me for the mistake, but luckily guided me through the process to fix it afterwards, and we discussed ways to prevent this from happening again.
+
+Why am I bringing this up? First, it's to remind you (and me) that we're still newbies in this field. We'll make mistakes, break rules (unintentionally), and possibly get into trouble. We both know we don't do this actively, but stuff happens. It's more important we don't do it again.
+
+The other point is to assure you that your new workplace will be alright. You'll have to adjust to many things, but having done it, I'm sure you can adapt to it. To quote someone you know, "Don't worry about it!"<!--yes, for real-->
+
+## Quickfire Round
+
+Borrowing the format you did last week, here are some things you will do in the upcoming year (in a random order):
+
+- ~~take~~make a picture with Nessie
+- beat multiple people (>10) at mini-golf
+- spot someone with a T-shirt saying "Hi" replied with "Hi"
+- have dinner with someone you've known for over 10 years in a Michelin-grade restaurant
+- see [Nathan]({% link _posts/2023-06-27-Hello-World.markdown%}) again
+- bring your parents to Slough (for good reason, I swear)
+
+## TL;DR
+
+I could go on for a long time -- so long that you become me. But do know you have good 357 days ahead of you, alright?
+
+Strap in, and I'll see you at the end of the ride.
+
+Good luck,
+
+Lyndon
+
+2024/07/10
