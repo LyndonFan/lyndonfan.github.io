@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Letter to my Future Self -- 2024"
-date:   2024-07-10 17:00:00 +0100
+title:  "Letter to my Past Self -- 2024"
+date:   2024-07-10 22:00:00 +0100
 categories: Personal
 ---
 
-_This letter is a reply to [myself back in 2023](./2023-07-19-Letter-Future.markdown)._
+_This letter is a reply to [myself back in 2023]({% link _posts/2023-07-19-Letter-Future.markdown%})._
 
 Dear Lyndon,
 
-Thanks for writing. I only remembered this letter as I wrote [my last article](./2024-07-03-gamble-more.md), but I tried to not read it until I started writing a response back to you (or me? or myselves).
+Thanks for writing. I only remembered this letter as I wrote [my last article]({% link _posts/2024-07-03-gamble-more.md%}), but I tried to not read it until I started writing a response back to you (or me? or myselves).
 
-Since this is a review (or a 1-1), I guess it makes sense for me to respond in kind, then add more other stuff which you did not see coming. There will be spoilers, but you already know this.
+Since this is a review (or a 1-1), I guess it makes sense for me to respond in kind. There will be spoilers, but you already know this.
 
 ## Career progress
 
@@ -23,7 +23,7 @@ Yes, I'm still a programmer. In fact, I've started a new job in January this yea
 
 Wow, you've definitely put me on the spot there. I had to actually go back on Github, think for a while, and recall what I've actually done.
 
-For work, you'll solve a huge technical challenge soon, and when it comes to your reward, be brave and ask for something that lines up with other opportunities. I've done more software architecture / Terraform at my new place, and am still learning the new pace and methodologies. Outside of work, I don't have certificates nor showcase repos, except for some articles here and did some [codecrafters](https://codecrafters.io/) challenges in Go. They are basically build your own version of X, e.g. git/databases. You'll find them quite fun!<!--No need to pay for them though, just wait until they're free-->
+For work, you'll solve a huge technical challenge soon, and when it comes to your reward, be brave and ask for something that lines up with other opportunities. I've done more software architecture / Terraform at my new place, and am still learning the new pace and methodologies. Outside of work, I don't have certificates nor showcase repos, except for some articles here and some [codecrafters](https://codecrafters.io/) challenges in Go. They are basically build your own version of X, e.g. git/databases. You'll find them quite fun!<!--No need to pay for them though, just wait until they're free-->
 
 ## Social Life
 
@@ -41,7 +41,7 @@ I still go to local events, but am more willing to travel further (London) for m
 
 ### What's my support network?
 
-Friends and parents. It's not bad, though not a lot of them are in the UK. I'll pass it on to next year and see how we do.
+Friends and parents. It's not bad, though not a lot of them are in the UK. I'll pass it on to next year and see how we do.🤷
 
 ## Big Stuff
 
@@ -81,17 +81,17 @@ Speaking of my job, I just screwed up big recently for not following the procedu
 
 Why am I bringing this up? First, it's to remind you (and me) that we're still newbies in this field. We'll make mistakes, break rules (unintentionally), and possibly get into trouble. We both know we don't do this actively, but stuff happens. It's more important we don't do it again.
 
-The other point is to assure you that your new workplace will be alright. You'll have to adjust to the new work and environment, but having done it, I'm sure you can adapat to it. To quote someone you know, "Don't worry about it!"<!--yes, for real-->
+The other point is to assure you that your new workplace will be alright. You'll have to adjust to many things, but having done it, I'm sure you can adapt to it. To quote someone you know, "Don't worry about it!"<!--yes, for real-->
 
 ## Quickfire Round
 
 Borrowing the format you did last week, here are some things you will do in the upcoming year (in a random order):
 
-- get a picture of Nessie
+- ~~take~~make a picture with Nessie
 - beat multiple people (>10) at mini-golf
 - spot someone with a T-shirt saying "Hi" replied with "Hi"
 - have dinner with someone you've known for over 10 years in a Michelin-grade restaurant
-- see [Nathan](./2023-06-27-Hello-World.markdown) again
+- see [Nathan]({% link _posts/2023-06-27-Hello-World.markdown%}) again
 - bring your parents to Slough (for good reason, I swear)
 
 ## TL;DR
