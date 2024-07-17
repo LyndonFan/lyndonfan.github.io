@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rust Meetup @ Reading"
-date:   2024-07-17 22:00:00 +0100
+date:   2024-07-17 17:30:00 +0100
 categories: Programming
 ---
 
@@ -11,13 +11,13 @@ It's a monthly meeting for people who use [Rust](https://www.rust-lang.org/) to 
 
 _Wait, I thought you mostly did Python. How did you get involved with Rust?_
 
-I'm not using it for my job (yet). I first heard of it from the dataframe library [polars](https://pola.rs/), which was written in Rust. Fast forward to a month ago where [Tom]({% link _posts/2024-07-03-gamble-more.md%}) had a idea to port an Apache Spark helper library to polars, and I was sold. It's still a work in progress, but [you can check it out here](https://github.com/TomBurdge/harley). I've written some of the string processing functions in Rust entirely, which made me more comfortable with the language.
+I'm not using it for my job (yet). I first heard of it from the dataframe library [polars](https://pola.rs/), which was written in Rust. Fast forward to a month ago when [Tom]({% link _posts/2024-07-03-gamble-more.md%}) had a idea to port an Apache Spark helper library to polars, and I was sold. It's still a work in progress, but [you can check it out here](https://github.com/TomBurdge/harley). I've written some of the string processing functions in Rust entirely, which made me more comfortable with the language.
 
 ## What was there?
 
 ### Demos
 
-The only scheduled activity in the evening was a demo session, where people show off what they've built in Rust. I showcased the above repo, which people actually took interest in! Some questions were about polars, which I happily answered; others were about how the plugin mechanism worked, which I gave my guesses. I received some light applause at the end, which was a nice bonus.
+The only scheduled activity in the evening was a demo session for people to show off what they've built in Rust. I showcased the above repo, which people actually took interest in! Some questions were about polars, which I happily answered; others were about how the plugin mechanism worked, which I gave my guesses. I received some light applause at the end, which was a nice bonus.
 
 This was followed by [paths2html](https://github.com/rustworkshop/paths2html) by Tim, a way to view a list of filepaths by putting them in an html file. The program is blazingly fast, but the code was just around 150 lines -- and a third of them were for tests!
 
