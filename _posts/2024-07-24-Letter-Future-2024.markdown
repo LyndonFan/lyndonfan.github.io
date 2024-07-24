@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Letter to my Future Self -- 2024"
-date:   2024-07-24 23:30:00 +0100
+date:   2024-07-24 21:30:00 +0100
 categories: Personal
 ---
 
 Dear Lyndon,
 
-Hope your past year has gone well. In case you forgot, I wrote this last year to catch up and see how things went for you / will go for me. [The last time I did this]({% link _posts/2023-07-19-Letter-Future.markdown%}), I went for a full review, but I'm doing it a bit looser this time. Partly because I don't think it's necessary, partly because it's late at night as I do this (as usual) and I'm a bit tired.
+Hope your past year has gone well. In case you forgot, I wrote this last year to catch up and see how things went for you / will go for me. [The last time I did this]({% link _posts/2023-07-19-Letter-Future.markdown%}) I went for a full review, but I'm doing it a bit looser this time. Partly because I don't think it's necessary, partly because it's late at night as I do this (as usual) and I'm a bit tired.
 
-## How's work and your career?
+## How's work?
 
 We just had a new starter join our team. It's a bit exciting to see someone go through a process similar to mine half a year ago -- how time flies! I'm glad to ~~not to wait for others to approve my PRs~~ get more people to work on larger projects.
 
@@ -25,7 +25,7 @@ I've picked up [Blood on the Clocktower](https://bloodontheclocktower.com/) rece
 
 Outside of regular hobbies, have you done anything special?
 
-I just had my final canoe lesson last weekend. I paddled on the Thames, near where I crossed to get to Reading town centre. It's wild how being on the river gives you such a different perspective. I kid you not, I was filled with joy and a bit surprised at how much that delighted me. I also fell in the water as the coaches gave me a slimmer boat and more efficient paddle to try out. "Of course", as I laughed it off and worked to empty the cockpit.
+I just had my final canoe lesson last weekend. I paddled on the Thames, near where I crossed to get to Reading town centre. It's wild how being on the river gives you such a different perspective. I kid you not, I was filled with joy and a bit surprised at how much that delighted me. Near the end of the session, the coaches gave me a slimmer boat and more efficient paddle to try out... and I fell in the water. "Of course", as I laughed it off and worked to empty the cockpit.
 
 Goodness, what a session to end on.
 
@@ -35,7 +35,7 @@ Enough of me sharing what you already knew. What about you?
 
 _(I'm intentionally being a bit vague here, just because I'm not very linclined to expose all my personal life on the public.)_
 
-Carrying over last year, are there any changes with your support network? Moving in with friends definitely changed things for me, so maybe you will have similar changes. Maybe you've got more British friends?
+Carrying over from last year, are there any changes with your support network? Moving in with friends definitely changed things for me, so maybe you will have similar changes. Maybe you've got more British friends?
 
 ## Any long term plans?
 
@@ -45,9 +45,7 @@ I'm not sure if setting a goal works for us. The benefit is an obvious target; t
 
 Instead, do you have a direction you want to go?
 
-Be as specific as you want. Like with goals, you probably want a middle ground: too broad and it's meaningless (e.g. keep being a programmer is a for-sure), whereas too narrow and it's easy to deviate outside it (e.g. be a Python-only Platform Engineer).
-
-Alternatively, you've already jotted what your future looks like, and work backwards. 
+Be as specific as you want. Like with goals, you probably want a middle ground: too broad and it's meaningless (e.g. keep being a programmer is a for-sure), whereas too narrow and it's easy to deviate outside it (e.g. be a Python-only Platform Engineer).Alternatively, jot what you wish your future to look like, and work backwards. 
 
 Or I'm just rambling again and none of this makes sense to you.
 
