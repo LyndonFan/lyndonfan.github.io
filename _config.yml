@@ -28,6 +28,12 @@ url: "https://lyndonfan.github.io/" # the base hostname & protocol for your site
 github_username: lyndonfan
 future: true
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Build settings
 theme: minima
 plugins:
