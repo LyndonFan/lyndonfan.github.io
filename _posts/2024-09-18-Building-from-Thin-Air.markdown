@@ -2,7 +2,7 @@
 layout: post
 title:  "Building from Thin Air is Hard"
 date:   2024-09-18 22:15:00 +0100
-categories: Programming
+tags: Programming
 ---
 
 <p style="text-align:center">~~or "Ramblings on Building a CRUD+ App"~~</p>

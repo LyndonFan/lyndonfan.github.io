@@ -2,7 +2,7 @@
 layout: post
 title:  "Gamble More"
 date:   2024-07-03 18:30:00 +0100
-categories: Personal
+tags: Personal
 ---
 
 _Disclaimer: This post does **NOT** endorse actual gambling in any shape or manner. Don't lead yourself to financial ruin! Also please read the [exceptions](#exceptions) section._

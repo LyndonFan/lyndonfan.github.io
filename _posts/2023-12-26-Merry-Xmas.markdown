@@ -2,7 +2,7 @@
 layout: post
 title:  "Merry Christmas!"
 date:   2023-12-26 22:00:00 +0800
-categories: Meta
+tags: Meta
 ---
 
 <style>
