@@ -2,7 +2,7 @@
 layout: post
 title:  "Letter to my Past Self -- 2023"
 date:   2023-07-12 22:00:00 +0100
-categories: Personal
+tags: Personal
 ---
 
 Dear Lyndon,

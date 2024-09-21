@@ -2,7 +2,7 @@
 layout: post
 title:  A "Magic" Trick
 date:   2023-08-02 23:45:00 +0100
-categories: Python
+tags: Programming
 ---
 
 _Hey kids, wanna see a function work and not work at the same time?_

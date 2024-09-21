@@ -2,7 +2,7 @@
 layout: post
 title:  Machine Learning Needs Support
 date:   2023-10-01 13:00:00 +0100
-categories: Python
+tags: Programming
 ---
 
 I went to [Pydata London again]({% link _posts/2023-07-05-Pydata-London.markdown %}) in early September and listened to a wonderful talk by [Michael Natusch](https://www.linkedin.com/in/cumulyst/?originalSubdomain=uk) on 10 ways to mess up a Machine Learning Implementation. After sitting on it for a month, I have come to this bold conclusion:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Aether: Meaningful and Simple Note Taking"
 date:   2024-08-28 23:50:00 +0100
-categories: Programming
+tags: Programming
 ---
 
 A quick post but I just finished building a note taking app!

@@ -2,7 +2,7 @@
 layout: post
 title:  "It's the Big Changes that Matter"
 date:   2024-03-13 23:30:00 +0000
-categories: Personal
+tags: Personal
 ---
 
 It's the big changes in life that matter.

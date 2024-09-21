@@ -2,7 +2,7 @@
 layout: post
 title:  "Letter to my Future Self -- 2024"
 date:   2024-07-24 21:30:00 +0100
-categories: Personal
+tags: Personal
 ---
 
 Dear Lyndon,
