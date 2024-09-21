@@ -20,9 +20,7 @@
 
 title: Lyndon Fan's blog
 email: lyndon0808@gmail.com
-description:
-  >- # this means to ignore newlines until "baseurl:"
-  Lyndon's blog. I write stuff here.
+description: I write stuff here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lyndonfan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lyndonfan
@@ -38,6 +36,7 @@ defaults:
 theme: minima
 plugins:
   - jekyll-feed
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

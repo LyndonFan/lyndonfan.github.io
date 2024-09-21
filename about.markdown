@@ -11,3 +11,5 @@ My first (and best) language is Cantonese, followed by English and Python. I hav
 I also really like [Magic: the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering).
 
 _Opinions expressed on this blog are solely my own and do not represent the views or opinions of my previous, current, and/or future employers._
+
+Subscribe to my blogs via [RSS](/feed.xml)!
