@@ -2,7 +2,7 @@
 layout: post
 title:  "Rust Meetup @ Reading"
 date:   2024-07-17 17:30:00 +0100
-tags: Programming
+tags: Programming Meetups
 ---
 
 ## What are these meetups?
