@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Attending Open Source Hackathon"
-date:   2024-11-16 00:30:00 +0000
+date:   2024-11-16 00:50:00 +0000
 tags: Programming Meetups
 ---
 
@@ -58,7 +58,7 @@ _Post hackathon update: the issue seems to be assigned to someone else, and they
 
 ### Meanwhile
 
-Between coding and having meals (or sweets or tea 🙃), I joined their office tour and chatted with other participants, from university students and researchers, to hedge fund managers and machine learning engineers. Weirdly, a common theme seems to be interest or working in the finance industry, which I guess is reasonable considering Man Group is a "global investment manager".
+Between coding and having meals (or sweets or tea 🙃), I joined their office tour and chatted with other participants". I also talked with one of their employees, and learnt they have a Linux team which manages their Linux servers and anything deployed on it. Which is a lot of things.
 
 At my table, I also listened to Jarek's stories as an open source library maintainer. I've summarised some of them here (which may not have the full context, and all mistakes are mine):
 
@@ -90,7 +90,7 @@ At the end of the day, we all rounded up for each project to share their progres
 
 Like other PyData events, this ended in a pub, though a different one since this one serves food.
 
-Throughout the night, I had chats with others within and outside of my teams. I once again learnt about the various backgrounds they came from, including their previous contributions to open source (if any). Like me, they thought the experience was great, receiving good advice from maintainers and making non-trivial contributions. A few lamented only having worked on documentation, but someone's gotta do it, and it might as well be them.
+Throughout the night, I had chats with others within and outside of my teams. Despite working on different projects, they genearlly thought the experience was great, having received good advice from maintainers and making non-trivial contributions. A few lamented only having worked on documentation, but someone's gotta do it, and it might as well be them.
 
 ## Overall Thoughts
 
