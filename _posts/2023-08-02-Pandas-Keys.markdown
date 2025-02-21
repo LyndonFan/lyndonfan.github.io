@@ -7,7 +7,7 @@ tags: Programming
 
 _Hey kids, wanna see a function work and not work at the same time?_
 
-(This article has an accompanying notebook and data file -- see them [here](LINKTBC)! )
+(This article has an accompanying notebook and data file -- see them [here](https://github.com/LyndonFan/lyndonfan.github.io/tree/main/code/2023-08-02)! )
 
 ## Set up
 
