@@ -13,45 +13,45 @@ It completely [nerd-sniped](https://xkcd.com/356/) me so I immediately asked for
 
 Let's formalise the problem and give it a more complete setup.
 
-Consider a city over an infinite grid, with grid lines set 800 meters apart. Each grid line is a bus line, with a bus stop at each intersection and at every 200 meters along the axes. Each bus stop can serve residents up to 400 meters away.
+Consider a city over an infinite grid, with grid lines set 800 meters apart. Each grid line is a bus line, with a bus stop at each intersection and every 200 meters along the axes. Each bus stop can serve residents up to 400 meters away.
 
 ![Grid lines 800 meters apart with points on the lines at 200m intervals](/assets/img/20250326_01_setup.png)
 
-The residents in the grid will always pick the closest bus stop to go to catch the bus. Let the catchment area of the bus stop be the area of residents which it serves.
+The residents in the grid will always pick the closest bus stop to go to catch the bus. Let the catchment area of the bus stop be the area of residents it serves.
 
 ![3 sample points pointing their their nearest stops](/assets/img/20250326_02_nearest_stop.png)
 
-What's the catchment area of an average[^1] bus stop?
+What is the catchment area of an average[^1] bus stop?
 
-[^1]: I know it's tricky to do this over an infinite grid (in practical and mathematical terms), but we'll resolve this quickly.
+[^1]: I know this is tricky over an infinite grid (in practical and mathematical terms), but we'll resolve this.
 
 ## Initial Attempt
 
-I tried to draw how it would look like. Initially I drew it just for a single bus line, but found it to be messy when considering the larger grid.
+I tried to draw what it would look like. Initially, I drew it just for a single bus line, but I found it messy when considering the larger grid.
 
-I then moved onto Geogebra to draw the sequence of circles, but it didn't give a clearer picture.
+I then moved on to Geogebra to draw the sequence of circles, which didn't help.
 
 ![Circles per each point on a particular square](/assets/img/20250326_03_circles.png)
 *gee, I wonder why...*
 
-It took me a while, but I realised these two properties:
+It took me a while, but I realised these:
 
-1. We don't need to care that service area of the bus stop is a circle. It's definitely a red herring and can stop us from drawing more circles.
-2. The shape of the catchment areas are same for the same relative position within the square. For example, the catchment area of all the bus stops at intersections are of the same shape.
+1. We don't care that the bus stop's service area is a circle. It was probably a red herring.
+2. Bus stops in the same relative position within the square have the same catchment area. For example, the catchment areas of bus stops at intersections all have the same shape.
 
 We also know
 
-3. The catchment area of all the bus stops cover the entire infinite grid.
+3. The catchment areas of all the bus stops cover the entire infinite grid.
 
-I feel like I was onto something. Now I just had to make use of the nature of the infinite grid, possibly for symmetry or grid...
+I feel like I was onto something. Maybe the grid being infinite can help...
 
 Wait! What if I can assign the catchment areas of each point instead of just having it defined as above?
 
-For example, I can assign all the people in each square must go to the top left (or north west, if the grid is aligned to the cardinal directions) bus stops. Then the catchment area of the 7 bus stops on the left side or top side -- but not the bottom left or top right corners -- would just be the square itself, so the average catchment area of these stops is just the area divided by 7. Since the squares tessellate, this is also the size of the average catchment area.
+For example, I can assign all the people in each square to go to the top left (or northwest, if the grid is aligned to the cardinal directions) bus stop. Then the catchment area of the 7 bus stops on the left side or top side -- but not the bottom left or top right corners -- would be the square itself, therefore the average catchment area of these stops is just the area divided by 7. Since the squares tessellate, this is also the size of the average catchment area.
 
 ![The same 3 sample points from earlier, but each going to the closest bus stop to the top left](/assets/img/20250326_04_top_left.png)
 
-I can also generalise to these set of 7 bus stops, which tessellate the grid lines as well. From points 2. and 3. above, this also means their catchment areas must also tessellate the grid. But combined they must be the same area as the original square, so we arrive at the same answer: one seventh of the square, i.e. `800^2 / 7 = 640000/7`, which is about 91428 m<sup>2</sup> or 9.14 hectares.
+But my argument didn't make use of my arbitrary assignment of the bus stop, so I could have used the original catchment areas. From points 2. and 3. above, their catchment areas must also tessellate the grid. But combined the catchment areas must have the same area as the original square, so we arrive at the same answer: one-seventh of the square, i.e. `800^2 / 7 = 640000/7`, which is about 91428 m<sup>2</sup> or 9.14 hectares.
 
 ## ChatGPT's Attempt
 
@@ -83,23 +83,23 @@ So, on average, each bus stop serves about 91,429 square meters.
 
 ### Analysis
 
-So it _did_ get the right answer, but with a different approach of first calculating the density (points per area) then inverting it to get the average catchment area (area per point). It briefly mentioned the Voronoi region, which was nice but necessary. The final response goes with the reciprocal of the density approach as well, but the method it calculated density is... a bit weird. It is _much_ easier to just say within 800 by 800 square there are 7 full bus stops, and arrive at the same result.
+So it _did_ get the correct answer, but with a different approach of first calculating the density (points per area) and then inverting it to get the average catchment area (area per point). It briefly mentioned the Voronoi region, which was nice but necessary. The final response goes with the reciprocal of the density approach as well, but the method it calculated density is a bit weird. It is _much_ easier to just say note there are 7 full bus stops within 800 by 800 square, and arrive at the same result.
 
 Also it decided to use weird slashes for some of the fractions for no reason :shrugs:
 
 ## Takeaways
 
-Right off the bat, my friend told me this number would serve as a good reference for the project he's working on. He's a architect at work, and is investigating how many people is needed to maintain a bus route from the point of city planning. With the size of the average catchment area, he can multiply that with the number of stops the bus route needed for the population, and work out the area needed to fit all the people in. Turns out, it's a bit more spacious than he thought.
+Right off the bat, my friend told me this number would serve as a good reference. As an architect, he was investigating how many people are needed to maintain a bus route. With the size of the average catchment area, he can multiply that with the number of stops the bus route needed for the population, and work out the size of the area needed to fit all the people in. Turns out, it was a bit more spacious than he thought.
 
-We also noticed that the actual project is over a finite area, and there will only be a single bus route. So a lot of the assumptions don't really apply -- a lot of the trickery I used assumes a infinite grid -- but this still should be a good starting point.
+We also noticed that the actual project is over a finite area, and there will only be a single bus route. So most the assumptions don't really apply (a lot of the trickery I used assumes an infinite grid), but this was still a good starting point.
 
-He also mentioned that his boss's daughter, who studies Maths at university, said this problem might involve trigonometric functions. Like what ChatGPT initially thought, this is overkill. Yes, maths sometimes requires brute-forcing an answer, but more often is about changing a perspective or reshaping the question so it becomes easy. Or "trivial" if you'd prefer.
+He also mentioned that his boss's daughter, who studies Maths at university, said this problem might involve trigonometric functions. Similar to what ChatGPT initially thought, this is overkill. Yes, maths sometimes requires brute-forcing an answer, but more often it is about changing a perspective or reshaping the question so it becomes easy. Or if I may, trivial.
 
 This also reminded me of [a math question in the anime Assassination Classroom](https://aminoapps.com/c/assassination-classroom/page/blog/atomic-crystalline-lattice-final-examination-showdown-breakdown/r0da_04gIeuxvnEkwDbb40wZQ0KWa0xMrD7). The post is quite light on spoilers (only the answer to the question), so I do recommend watching the real thing afterwards.
 
 ## P.S.
 
-As I'm writing up, I took more time actual thinking about it. Drawing the actual Voronoi diagram didn't need any "advanced" maths, just some guessing and working with loci. I've put the resulting Geogebra file [here](/code/2025-03-26/bus-stop-catchment-area.ggb).
+As I was writing this, I thought about it more. Drawing the actual Voronoi diagram didn't need any complicated maths either, just some guessing and working with loci. I've put the resulting Geogebra file [here](/code/2025-03-26/bus-stop-catchment-area.ggb).
 
 ## P.P.S.
 
