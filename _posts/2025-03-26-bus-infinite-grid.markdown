@@ -91,13 +91,15 @@ Also it decided to use weird slashes for some of the fractions for no reason :sh
 
 ## Takeaways
 
-Right off the bat, my friend told me this number would serve as a good reference. As an architect, he was investigating how many people are needed to maintain a bus route. With the size of the average catchment area, he can multiply that with the number of stops the bus route needed for the population, and work out the size of the area needed to fit all the people in. Turns out, it was a bit more spacious than he thought.
+Right off the bat, my friend told me this number would serve as a good reference. As an urban planner[^2], he was investigating how many people are needed to maintain a bus route. With the size of the average catchment area, he can multiply that with the number of stops the bus route needed for the population, and work out the size of the area needed to fit all the people in. Turns out, it was a bit more spacious than he thought.
 
 We also noticed that the project is over a finite area, and there will only be a single bus route. So most assumptions no longer applied (a lot of the trickery I used assumes an infinite grid), but this was still a good starting point.
 
 He also mentioned that his boss's daughter, who studies Maths at university, said this problem might involve trigonometric functions. Similar to what ChatGPT initially thought, this is overkill. Yes, maths sometimes requires brute-forcing an answer, but often it is about changing a perspective or reshaping the question so it becomes easy. Or if I may, trivial.
 
 This also reminded me of [a math question in the anime Assassination Classroom](https://aminoapps.com/c/assassination-classroom/page/blog/atomic-crystalline-lattice-final-examination-showdown-breakdown/r0da_04gIeuxvnEkwDbb40wZQ0KWa0xMrD7). The post is quite light on spoilers (only the answer to the question), so I do recommend watching the real thing afterwards.
+
+[^2]: Corrected from "architect".
 
 ## P.S.
 
