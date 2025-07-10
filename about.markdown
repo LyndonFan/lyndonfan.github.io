@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm an ~~recent~~ Oxford graduate working as a software engineer in the UK. I like to use data to find interesting facts, or just play around with technologies.
+Just a data engineer in the UK. I sometimes use data to find interesting facts, or just play around with technologies.
 
 My first (and best) language is Cantonese, followed by English and Python. I have also dabbled with Javascript, and am picking up the basics of Go.
 
