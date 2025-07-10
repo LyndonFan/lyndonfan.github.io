@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Letter to my Past Self -- 2025"
-date:   2025-07-29 21:30:00 +0100
+date:   2025-07-10 22:00:00 +0100
 tags: Personal
 ---
+
+_This letter is a reply to [myself back in 2024]({% link _posts/2024-07-24-Letter-Future-2024.markdown%})._
 
 Dear Lyndon,
 
@@ -17,7 +19,7 @@ Also you'll _finally_ start studying for that certificate. Not that you shouldn'
 
 ### What about outside my job?
 
-Well, a bit. I built [a note-taking app but with some extra stuff](TODO: link to aether article) and [some other pseudo-program to help solve my friend's problem at work](TODO: link to grid article).
+I built [a note-taking app but with some extra stuff]({% link _posts/2024-08-28-Aether-Note-Taker.markdown %}) and [some other pseudo-program to help solve my friend's problem at work]({% link _posts/2025-03-26-bus-infinite-grid.markdown %}). Nothing much, but it's (mostly) honest work.
 
 ## What's up with your hobbies?
 
@@ -31,7 +33,7 @@ I _did_ go some travelling! One with friends, and another one by yourself.
 
 ## How are my friends & family?
 
-Same old, though moving into London does mean I lost some of my ties back near where I lived. Not many more British friends it appears. Got a new flatmate though!
+Same old, though moving into London does mean I lost some of my ties back near where I lived. Got a new flatmate though!
 
 ## Any long term plans?
 
@@ -68,7 +70,7 @@ Yes, the usual. Some things that will happen to you, deprived of order and conte
 
 ## TL;DR
 
-I could go on for a long time – so long that you become me. But do know you have good XXX days ahead of you, alright?
+I could go on for a long time – so long that you become me. But do know you have good 351 days ahead of you, alright?
 
 Get your advance train tickets while they're cheap, and I’ll see you in London.
 
