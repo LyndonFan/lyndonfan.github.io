@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Letter to my Past Self -- 2025"
+date:   2025-07-10 22:00:00 +0100
+tags: Personal
+---
+
+_This letter is a reply to [myself back in 2024]({% link _posts/2024-07-24-Letter-Future-2024.markdown%})._
+
+Dear Lyndon,
+
+Thanks for writing. I only remembered this only around the start of the month, and forgot most of the contents until I read it again. Which probably means this is still a good annual surprise.
+
+## How's Work?
+
+There's a change, but luckily for good. Through a variety of interesting circumstances, I _do_ get to interact more with data!
+
+Also you'll _finally_ start studying for that certificate. Not that you shouldn't start earlier though.
+
+### What about outside my job?
+
+I built [a note-taking app but with some extra stuff]({% link _posts/2024-08-28-Aether-Note-Taker.markdown %}) and [some other pseudo-program to help solve my friend's problem at work]({% link _posts/2025-03-26-bus-infinite-grid.markdown %}). Nothing much, but it's (mostly) honest work.
+
+## What's up with your hobbies?
+
+'m afraid nothing new, captain.
+
+Mostly Magic and a bit more blood on the clocktower. I _did_ have to leave my D&D campaign which I've been on almost 2 years, but at least my character will get an ending he has earned.
+
+## Any special things you've done?
+
+I _did_ go some travelling! One with friends, and another one by yourself.
+
+## How are my friends & family?
+
+Same old, though moving into London does mean I lost some of my ties back near where I lived. Got a new flatmate though!
+
+## Any long term plans?
+
+err let's deal with that one in a bit
+
+## How _am_ I?
+
+Fine! I promise I'm fine.
+
+_(sigh)_
+
+I'm not that easy to read, innit? Hopefully at least it's just you.
+
+Usually there's a section for me to to talk more about myself, but at least I don't need to make an awkward transition this time.
+
+Moving into London was -- or is -- plunging yourself from the distant and quiet neighbourhood back into a bustling city. Lights, sounds, exhaust, and vape. All a sight at first, but slowly overwhelming your senses. It's a bit like going back to Hong Kong -- not even a year and I'm already talking about it.
+
+It seems I feel more tired recently. Maybe it's finding and getting a new job, or finding and moving to a new place. There are things I can do to help, like going to sleep earlier. (Says me typing this near midnight.) My friends have found a local parkrun, and I've started going to the gym. It's tiring, but a good sort of tiring. I found a local card game shop, and should try to find a replacement D&D campaign too.
+
+None of the above solve my biggest problem of you might know and I definitely had warned myself: Not doing stuff. Yes, work, but surely you ~~could get~~ deserve a life outside of it. I already sent a note just as 2024 ended, but haven't read it until I started writing this post. I don't have a good response. Before you ask, yes, you _will_ have enough time after work. I weakly, neigh, strongly believe I should care about something -- programming or not. But I don't want that thing to be "whatever".
+<!-- https://eev.ee/blog/{date_I_want_to_publish_this_minus_one_week}/the-rise-of-{thing_in_quotes}/ -->
+
+## Quickfire round
+
+Yes, the usual. Some things that will happen to you, deprived of order and context:
+
+- bump into someone you know on your travels (no Hong Kong doesn't count)
+- chat with a coworker at a pub near midnight
+- visit a board game pub
+- bring friends to an event since there's room for "+3"
+- _bought_ some snacks from Hong Kong for a good time
+- _received_ some snacks from Hong Kong for a good time
+- hear someone sing "No, your mom" unironically
+
+## TL;DR
+
+I could go on for a long time – so long that you become me. But do know you have good 351 days ahead of you, alright?
+
+Get your advance train tickets while they're cheap, and I’ll see you in London.
+
+Good luck,
+
+Lyndon
+
+10/07/2025
