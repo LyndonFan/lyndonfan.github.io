@@ -1,2 +1,2 @@
-#!/bin/bash
-bundle exec jekyll serve --force_polling --livereload
+#/!/bin/bash
+bundle exec jekyll serve --livereload --force_polling
