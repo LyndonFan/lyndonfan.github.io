@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Letter to my Future Self -- 2025"
+date:   2025-07-30 23:00:00 +0100
+tags: Personal
+---
+
+Dear Lyndon,
+
+Hope you had a good past year. It's a bit later this time (for me, at least), but I wrote this letter to keep [the tradition]({% link _posts/2024-07-24-Letter-Future-2024.markdown %}) going. I liked the format last time, so here we go!
+
+## How's your week?
+
+Yes, the typical icebreaker. But might as well with a simple vibe check.
+
+## Anything you've done exciting recently?
+
+Do save some for the end if you want, but tell me something out of the ordinary that you did.
+
+## What's your typical schedule?
+
+Yes, hopefully you have something resembling a schedule. No need to detail it minute by minute, but just a skim of anything that happens regularly. It can be a habit, regular exercises, or even monthly excursions! Assuming you've planned them, of course.
+
+## How's your career?
+
+To spell out the obvious, this includes things you've done outside of work.
+<!-- To spell out the non-obvious, I know you'd rather not talk about work. -->
+
+I've been trying to get my hands on lower level languages, and remembered MIT Open courseware is a thing. Maybe you will have made some progress there.
+
+I also remember having built [a relatively more complete project]({% link _posts/2024-08-28-Aether-Note-Taker.markdown %}) or [two](https://github.com/LyndonFan/find_local_gps). Maybe you could show me something interesting?
+
+## What about your support network?
+
+Seems like a carry-over from last ~~meeting~~ year.
+
+And of course,
+
+## How _are_ you?
+
+It sometimes feel like I'm wearing a good ol wool jumper. It's still warm and works, but it's starting to thin out and has some loose threads. And you know how afraid of the cold I am. Maybe you've gone and fixed it, or found a better replacement.
+
+I'm looking forward to hearing you document your travels.
+
+Salutations -- be a string halved with long term backup, attached to an AWS database (4,7),
+
+Lyndon Fan
+
+30/07/2025
