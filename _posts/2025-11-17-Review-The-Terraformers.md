@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Review about Terraformers"
-date:   2025-10-24 22:00:00 +0100
+date:   2025-11-17 22:00:00 +0800
 tags: Personal
 ---
 
-Recently I read The Terraformers by Annalee Newitz. It's a good Sci-fi book!
+A while ago I read The Terraformers by Annalee Newitz. It's a good Sci-fi book!
 
 ## What's it about?
 
@@ -30,7 +30,7 @@ Spoiler gap if you want to read the book yourself first!
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-Keep going...
+(Keep going...)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -58,10 +58,6 @@ The Easter eggs were good choices too: the travelling ~~salesman~~ herbivore pro
 
 Some of the conversations / quotes are great:
 
-- good quotes, especially from first story
-	- (definition of bargain)
-	- (destry's moose partner when first removed limiter)
-
 <!-- override blockquote italicising text, since they are used for non-human people -->
 <style>
 blockquote {
@@ -85,11 +81,7 @@ And when Whistle was asked how he felt after his limiter was removed
 > 
 > Whistle cut her off: _You know I'm just as intelligent as I always was, right? The only difference is now you have to listen to me._
 
-It's almost like a reverse LLM, though it probably wasn't a thing when they initially wrote it. If anything, this shows it's relatable!
-
-- relevant to current news!
-	- poor people being treated, erm, poorly by companies / corporations
-	- housing crisis
+It's almost like a reverse LLM, though it probably wasn't a thing when they initially wrote it. If anything, this shows it's relatable! Like how it mentions poor people being treated, erm, poorly by corporations; and housing being a contentious issue.
 
 ## Second Opinion from a Friend
 
