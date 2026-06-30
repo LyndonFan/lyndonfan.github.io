@@ -8,8 +8,10 @@ Just a data engineer in the UK. I sometimes use data to find interesting facts, 
 
 My first (and best) language is Cantonese, followed by English and Python. I have also dabbled with Javascript, and am picking up the basics of Go.
 
-I also really like [Magic: the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering).
+I also really like [Magic: the Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) and [Blood on the Clocktower](https://en.wikipedia.org/wiki/Blood_on_the_Clocktower).
 
 _Opinions expressed on this blog are solely my own and do not represent the views or opinions of my previous, current, and/or future employers._
+
+I'm trying to blog more often and have added a [beeminder goal](https://www.beeminder.com/lyndonf/monthlyblog).
 
 Subscribe to my blogs via [RSS](/feed.xml)!
