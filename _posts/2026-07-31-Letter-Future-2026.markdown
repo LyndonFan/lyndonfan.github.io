@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Letter to my Future Self -- 2026"
+date:   2026-07-31 00:10:00 +0100
+tags: Personal
+---
+
+Dear Lyndon,
+
+Hi! Hope the past year is going well. This is just as late as [last time]({% link _posts/2025-07-30-Letter-Future-2025.markdown %}), but so is probably fine.
+
+## Standard Checklist
+
+I'm realising a lot of the questions from the past years are the same, so I'll just put them here as a list instead.
+
+1. How's your typical week?
+2. Anything you've done recently?
+3. How's your career?
+4. What does your support network look like?
+
+## More thoughts, hopes, and dreams
+
+Now that's out of the way, some meatier(?) questions:
+
+5. Do you have any new coding projects / made improvements?
+6. How are you contributing back to society? Donations are a good start, but you can do more.
+7. Have you committed to anything new? A bit more than just pinky promise to myself, but putting some skin <!-- read money / time -->in the game.
+8. Have you decorated your room / spiced up your life?<!-- no don't go around killing like the Toymaker -->
+<!-- <ol>How honest are you with yourself? Do you still read the comments like before?</ol> -->
+
+and finally...
+
+## How _are_ you?
+
+Sometimes I feel conflicted about things?<!-- as usual, but you know lah -->
+
+- between learning some coding for career vs pursuing other interests
+- between wanting goals vs wanting an "easy" day off
+- between trying to improve the socieity / world vs not giving too much craps about it
+- between Meridian vs Pip & Nut vs the supermarket brand of peanut butter
+
+and it takes me anywhere from 10 - 30 minutes to just decide... to do none of them (or the shop closes).
+
+Maybe you have a stronger conviction, faster decision making skills, or this is fine? Looking forward to your thoughts / rambles in a year.
+
+À bientôt,
+
+Lyndon Fan
+
+2026-07-31
