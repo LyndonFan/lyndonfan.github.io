@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pydata London Meetup -- August 2026"
-date:   2026-08-12 23:30:00 +0100
+date:   2026-08-11 23:30:00 +0100
 tags: Programming Meetups
 ---
 
