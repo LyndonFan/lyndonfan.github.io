@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "DBT Meetup -- October 2026"
+date:   2026-11-01 18:20:00 +0000
+tags: Programming Meetups
+---
+
+Short one about [DBT meet up](https://www.meetup.com/london-dbt-meetup/events/316511066/?eventOrigin=your_events) I went to a couple weeks ago. It was pretty good!
+
+## Food
+
+<!-- Yes this is ~more important than the actual content. /s -->
+It's chicken and falafel wraps! Great choice. Pizzas feel too same-y and too 熱氣/unhealthy.
+
+## Okay actual talk
+
+It was a recap of [DBT summit in Las Vegas](https://www.getdbt.com/dbt-summit). There were some thoughts / ideas:
+
+- Context can be useful for agents to avoid making mistakes
+- Humans can skip writing SQL by hand, and instead give agents the right context and tools, including ways for agents to get feedback when it goes wrong
+- Open source tools and standards can help avoid vendor lock in
+
+There's also DBT 2.0 feature announcements. Some of these include:
+
+- Rust rewrite. Not because it's Rust(TM), but hopefully it means I don't have to wait ages for DBT just to start
+- Running unit tests / certain models / tests on duckdb. No need to ping the data warehouse!
+- Column lineage to better track how data arrives at the end. Though this is not in the open source version.
+- DBT state to reuse tables and skip running. This is also not in the open source version and is paid, but seems like a nice developer UX feature.
+
+## Thoughts
+
+It was nice to catch up! Not much elaboration since I had to arrive late and leave early :sad:
