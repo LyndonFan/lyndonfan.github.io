@@ -6,7 +6,7 @@ tags: Movie
 ---
 <!-- sorr for 1999 -->
 
-I watched a Dog Day Evening (一個部門的誕生) (no not dog day afternoon) a while ago. It’s quite funny and decent!
+I watched a [Dog Day Evening (一個部門的誕生)](https://zh.wikipedia.org/wiki/%E4%B8%80%E5%80%8B%E9%83%A8%E9%96%80%E7%9A%84%E8%AA%95%E7%94%9F#%E8%A3%BD%E4%BD%9C) (no not dog day afternoon) a while ago. It’s quite funny and decent!
 
 ## Spoiler free review
 
